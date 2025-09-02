@@ -56,3 +56,6 @@ Tests
     python -m tests.singly_linked_list_test
     python -m tests.modular_exponentiation_test
     python -m tests.modular_multiplicative_inverse_test
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:05 -->
